@@ -10,7 +10,7 @@
 <h2>Sobre o projeto</h2>
 
 <p>
-    Este Projeto se trata de uma API que retorna jogos de Loterias. Por exemplo, você escolhe a MegaSena a API retorna em JSON 6 números que são a quantidade que você precisa preencher na sua aposta.
+    Este Projeto se trata de uma API que retorna jogos de Loterias. Por exemplo, você escolhe a MegaSena a API retorna em JSON com 6 números que é a quantidade de números que o apostar deve marcar em sua aposta.
 </p>
 
 <h4>São 3 Jogos Disponíveis:</h4>
