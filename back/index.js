@@ -17,5 +17,5 @@ app.use(router)
 
 
 
-const porta = process.env.PORT || 1993
+const porta = process.env.PORT || 1992
 app.listen(porta, () => console.log(`Servidor rodando na porta ${porta}`))
